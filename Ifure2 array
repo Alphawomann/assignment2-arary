@@ -1,0 +1,19 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.5.0;
+
+/* Assignment 2
+Give 2 examples of the following: fixed array an dynamic array. */
+
+contract Ifure2{
+
+  //example of fixed array
+
+    uint [6] Alpha = [1,2,3,4,5,6];
+    uint [3] Omega = [1,2,3];
+
+    // example of dynamic array
+
+    uint [] Great = [1,2,3,4,5,6];
+    uint [] Dgreat = [1,2,3];
+
+}
